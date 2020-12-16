@@ -19,13 +19,13 @@ using SallesWebMVC;
 #line default
 #line hidden
 #line 2 "C:\temp\SallesWebMVC\SallesWebMVC\Views\_ViewImports.cshtml"
-using SallesWebMVC.Models.ViewModels;
+using SallesWebMVC.Models;
 
 #line default
 #line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"583387379a597938339285f5a623245873b0a91c", @"/Views/Shared/Error.cshtml")]
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"7d9d058eb12923a5f3bf64e52d33bc205e348b59", @"/Views/_ViewImports.cshtml")]
-    public class Views_Shared_Error : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<SallesWebMVC.Models.ViewModels.ErrorViewModel>
+    public class Views_Shared_Error : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<ErrorViewModel>
     {
         #pragma warning disable 1998
         public async override global::System.Threading.Tasks.Task ExecuteAsync()

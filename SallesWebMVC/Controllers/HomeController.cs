@@ -4,7 +4,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using SallesWebMVC.Models.ViewModels;
+using SallesWebMVC.Models;
 
 namespace SallesWebMVC.Controllers
 {
