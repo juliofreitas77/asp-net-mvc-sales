@@ -33,3 +33,4 @@ C:\temp\SallesWebMVC\SallesWebMVC\obj\Debug\netcoreapp2.1\SallesWebMVC.dll
 C:\temp\SallesWebMVC\SallesWebMVC\obj\Debug\netcoreapp2.1\SallesWebMVC.pdb
 C:\temp\SallesWebMVC\SallesWebMVC\obj\Debug\netcoreapp2.1\SallesWebMVC.genruntimeconfig.cache
 C:\temp\SallesWebMVC\SallesWebMVC\obj\Debug\netcoreapp2.1\SallesWebMVC.csproj.CopyComplete
+C:\temp\SallesWebMVC\SallesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
