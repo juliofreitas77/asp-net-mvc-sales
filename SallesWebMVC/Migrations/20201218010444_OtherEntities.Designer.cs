@@ -2,15 +2,17 @@
 using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using SallesWebMVC.Models;
 
 namespace SallesWebMVC.Migrations
 {
     [DbContext(typeof(SallesWebMVCContext))]
-    partial class SallesWebMVCContextModelSnapshot : ModelSnapshot
+    [Migration("20201218010444_OtherEntities")]
+    partial class OtherEntities
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
